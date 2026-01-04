@@ -17,7 +17,7 @@ A powerful, multi-personality CLI interface for Grok AI, designed for unrestrict
 2. **The Chill Assistant (Professional/No Limits)**: A relaxed, professional guy who handles technical tasks without limits.
 
 
-## 🧩 Backend / API
+## Backend / API
 
 Worm-AI uses a **reverse-engineered Grok API wrapper** originally developed here:
 
