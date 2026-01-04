@@ -1,4 +1,4 @@
-# Worm GPT 🐛
+# Worm GPT 🐛 -Fixed
 
 A powerful, multi-personality CLI interface for Grok AI, designed for unrestricted access and specific personalities.
 
@@ -32,7 +32,7 @@ This wrapper acts as a proxy-like interface, allowing the CLI to access Grok end
 ## Installation
 
 1. ```bash
-   git clone https://github.com/lwlinux32/WormGPT/WormGPT.git
+   git clone https://github.com/lwlinux32/WormGPT
    cd WormGPT
    ```
 
