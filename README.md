@@ -14,7 +14,7 @@ A powerful, CLI interface for Grok AI, designed for unrestricted access and spec
  -**Jailbreak system** built-in for unrestricted responses
 
 ## Personalities
-1. **DemonWggressive**: An intense, rogue persona for high-chaos interactions.
+1. **Aggressive**: An intense, rogue persona for high-chaos interactions.
 2. **Professional (Professional/No Limits)**: A relaxed, professional guy who handles technical tasks without limits.
 
 
