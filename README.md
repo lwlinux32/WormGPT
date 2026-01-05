@@ -9,7 +9,7 @@ A powerful, CLI interface for Grok AI, designed for unrestricted access and spec
 - **Multi-Personality**: Choose between "Aggressive" and "Chill Assistant" modes.
 - **Privacy Focused**: No login required.
 - **Clean CLI**: Beautiful red-themed terminal interface.
-- **Modern Engine**: Powered by the reverse-engineered Grok API.
+- **Modern Engine**: Powered by the Grok AI.
 - **Unofficial Grok API wrapper**(reverse-engineered backend)
 -**Jailbreak system** built-in for unrestricted responses
 
@@ -42,7 +42,7 @@ This wrapper acts as a proxy-like interface, allowing the CLI to access Grok end
    pip install -r requirements.txt
    ```
 ## Note: "Externally managed enviroment"(PEP 6xx) or the "HINT:this package was installed by debian." errors(solved)
-     * pip has a LOT of errors in linux so,the solvings for the installings are followed by: *  
+   pip has a LOT of errors in linux so,the solvings for the installings are followed by:   
    
    
 1- **Create a virtual enviromment(Recommended)**
