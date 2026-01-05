@@ -1,6 +1,6 @@
 # Worm GPT 🐛 -Fixed
 
-A powerful, multi-personality CLI interface for Grok AI, designed for unrestricted access and specific personalities.
+A powerful, CLI interface for Grok AI, designed for unrestricted access and specific personalities.
 
  Original idea by @kafyasngl
 
