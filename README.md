@@ -9,7 +9,6 @@ A powerful, CLI interface for Grok AI, designed for unrestricted access and spec
 - **Multi-Personality**: Choose between "Aggressive" and "Chill Assistant" modes.
 - **Privacy Focused**: No login required.
 - **Clean CLI**: Beautiful red-themed terminal interface.
-- **Modern Engine**: Powered by the Grok AI.
 - **Unofficial Grok API wrapper**(reverse-engineered backend)
  -**Jailbreak system** built-in for unrestricted responses
 
